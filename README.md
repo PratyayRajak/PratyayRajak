@@ -3,7 +3,7 @@
 
 ![github](https://github.com/user-attachments/assets/49858a05-1219-4bee-b26b-6c7dbb055383)
 
-                                                     Economics & Management student
+                                                     Data Science student
 #### 💼 *Aspiring Research Analyst*  
 
 Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in management and economics with hands on technical expertise.
