@@ -3,7 +3,7 @@
   👋 Hi, I'm Pratyay Rajak
 </h1>
 <h3 align="center">
-  <a href="https://github.com/PratyayRajak">AI Engineer & MLOps Enthusiast</a> • Building Scalable AI & ML Systems
+  <a href="https://github.com/PratyayRajak">AI Engineer </a> • Building Scalable AI & ML Systems
 </h3>
 
 <!-- Cool Banner -->
