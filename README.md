@@ -31,8 +31,7 @@ I’m an **AI / ML Engineer** focused on **production-ready machine learning sys
 
 ## 🎓 Education
 
-**Indian Institute of Information Technology, Lucknow**  
-*M.Sc. Data Science (2024 – 2026)*
+**Indian Institute of Information Technology, Lucknow** *M.Sc. Data Science (2024 – 2026)*
 
 ---
 
@@ -75,45 +74,34 @@ I’m an **AI / ML Engineer** focused on **production-ready machine learning sys
 
 ## 🌟 Top GitHub Projects
 
-### 🧠 AI Dream Interpreter  
-🔗 https://github.com/PratyayRajak/AI-Dream-Interpreter  
+### 🧠 [AI Dream Interpreter](https://github.com/PratyayRajak/AI-Dream-Interpreter)  
 Transformer-based NLP system for semantic dream analysis  
 
----
-
-### 🐾 Pet Health Q&A System  
-🔗 https://github.com/PratyayRajak/pet-health  
+### 🐾 [Pet Health Q&A System](https://github.com/PratyayRajak/pet-health)  
 AI-powered pet health assistant with risk classification  
 
----
-
-### 📱 Smartphone Price Recommender  
-🔗 https://github.com/PratyayRajak/Smartphone-Price-Recommender  
+### 📱 [Smartphone Price Recommender](https://github.com/PratyayRajak/Smartphone-Price-Recommender)  
 ML-based recommendation engine using real-world data  
 
 ---
 
-## 📊 Engineering Metrics (STABLE & VERIFIED)
+## 📊 Engineering Metrics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PratyayRajak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=PratyayRajak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Pratyay's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PratyayRajak&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyayRajak&theme=tokyonight" alt="Pratyay's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyayRajak&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyayRajak&layout=compact&theme=tokyonight" alt="Pratyay's Top Languages" />
+</p>
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github-user-contribution-grid-snake.vercel.app/api/snake?github_user=PratyayRajak&color_snake=%2300E5FF&color_dots=%231a1b27,%233b4261,%237aa2f7,%23bb9af7,%23f7768e" alt="Snake Animation" />
 </p>
 
 ---
@@ -122,16 +110,16 @@ ML-based recommendation engine using real-world data
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pratyay-rajak-66a822377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://huggingface.co/pratyayrajak">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
   <a href="https://www.kaggle.com/pratyayrajak65">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="mailto:pratyayrajak18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
