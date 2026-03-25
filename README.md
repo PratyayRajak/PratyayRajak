@@ -1,29 +1,28 @@
 <h1 align="center">🚀 Pratyay Rajak</h1>
 
 <h3 align="center">
-AI Engineer • Machine Learning Engineer • Applied Deep Learning
+GenAI Engineer • LLM Fine-Tuning • RAG • Agentic AI Systems
 </h3>
 
 <p align="center">
-Designing, training, and deploying scalable AI systems  
-<br/>
+Building AI systems that don't just respond — they reason, retrieve, and act.<br/>
 M.Sc. Data Science @ IIIT Lucknow
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Vision;Production+ML+%26+MLOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=GenAI+Engineer;LLM+Fine-Tuning+%7C+LoRA+%7C+QLoRA;RAG+%7C+LangChain+%7C+LangGraph;Multi-Agent+Systems+%7C+Agentic+AI" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m an **AI / ML Engineer** focused on **production-ready machine learning systems**, not just notebooks.
+I'm a **GenAI / LLM Engineer** focused on building **production-ready AI systems** — not just demos.
 
-- End-to-end ML pipeline development  
-- Deep Learning for NLP & Computer Vision  
-- Model deployment, monitoring & optimization  
-- Strong DSA + problem-solving mindset  
+- 🤖 Multi-agent pipelines with LangGraph & autonomous decision-making
+- 🔍 Advanced RAG systems with hybrid retrieval, re-ranking & CI/CD evaluation
+- 🎯 LLM fine-tuning (LoRA, QLoRA) under real hardware constraints
+- 🚀 End-to-end deployment: FastAPI · Docker · GitHub Actions
 
 💡 *I build models that actually ship.*
 
@@ -31,57 +30,64 @@ I’m an **AI / ML Engineer** focused on **production-ready machine learning sys
 
 ## 🎓 Education
 
-**Indian Institute of Information Technology, Lucknow** *M.Sc. Data Science (2024 – 2026)*
+**Indian Institute of Information Technology, Lucknow** — *M.Sc. Data Science (2024 – 2026)*  
+**Deshbandhu College, University of Delhi** — *B.Sc. (Hons) Mathematics (2021 – 2024)*
 
 ---
 
-## ⚙️ AI / ML / MLOps Tech Stack
+## ⚙️ Tech Stack
+
+### 🤖 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-StateGraph-green?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-LoRA%2FQLoRA-orange?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge)
+![Ragas](https://img.shields.io/badge/Ragas-Evaluation-blueviolet?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-Observability-blue?style=for-the-badge)
+
+### 🔍 Retrieval & Vector Search
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0064A5?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-Hybrid_RAG-4B8BBE?style=for-the-badge)
 
 ### 🧩 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![Polars](https://img.shields.io/badge/Polars-0A0A0A?style=for-the-badge)
 
-### 🧠 Machine Learning & Deep Learning
+### 🧠 Model Training & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-
-### 🧠 NLP & LLMs
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge)
-
-### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
-![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge)
 
 ### 🚀 MLOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge)
 
 ---
 
-## 🌟 Top GitHub Projects
+## 🌟 Featured Projects
 
-### 🧠 [AI Dream Interpreter](https://github.com/PratyayRajak/AI-Dream-Interpreter)  
-Transformer-based NLP system for semantic dream analysis  
+### 🤖 [Multi-Agent Software Engineering System](https://github.com/PratyayRajak/multi-agent-dev-system)
+> LangGraph-powered pipeline of 4 agents (Research → Coder → Tester → PR Writer) that autonomously resolves GitHub issues end-to-end — zero human intervention. Includes Docker sandboxing, conditional retry logic, LangSmith observability & GitHub Actions CI/CD.  
+`Python` `LangGraph` `Gemini 2.0` `Docker` `FastAPI` `GitHub Actions`
 
-### 🐾 [Pet Health Q&A System](https://github.com/PratyayRajak/pet-health)  
-AI-powered pet health assistant with risk classification  
+---
 
-### 📱 [Smartphone Price Recommender](https://github.com/PratyayRajak/Smartphone-Price-Recommender)  
-ML-based recommendation engine using real-world data  
+### ⚖️ [Legal RAG Pipeline](https://github.com/PratyayRajak/legal-rag-pipeline)
+> Production RAG system over 500+ legal contracts (CUAD dataset) with hybrid BM25 + vector retrieval, RRF fusion, and CrossEncoder re-ranking. Ragas faithfulness improved from **0.72 → 0.87**. CI/CD evaluation gate blocks regression on every commit.  
+`Python` `LangChain` `ChromaDB` `BM25` `Ragas` `FastAPI` `GitHub Actions`
+
+---
+
+### 📖 [Ramcharitmanas RAG + LoRA Fine-Tuning](https://github.com/PratyayRajak)
+> Fine-tuned Phi-2 using QLoRA (PEFT), training only **0.09% of parameters** on a 4GB GPU. FAISS-backed RAG with strict citation enforcement, deployed via dual Gradio interfaces for RAG-only vs RAG+LoRA comparison.  
+`Python` `PyTorch` `PEFT` `FAISS` `Hugging Face` `Gradio`
 
 ---
 
@@ -126,5 +132,5 @@ ML-based recommendation engine using real-world data
 ---
 
 <p align="center">
-<i>“Models are cheap. Engineering is rare.”</i>
+<i>"Models are cheap. Engineering is rare."</i>
 </p>
